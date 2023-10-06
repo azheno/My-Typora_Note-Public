@@ -1,4 +1,4 @@
-# My-Typora_Note-Public
+# My-Typora_Note-Private
 
 
 
@@ -10,4 +10,4 @@
 
 
 
->   此项目为公共项目
+>   此项目为私有项目
