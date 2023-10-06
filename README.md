@@ -1,5 +1,5 @@
 # Typora_Note
 
-This is my note of computer
 
-If you want to see , come on 
+
+这个项目是为了供学习使用，里面充分记录了关于各个方向学习的资料
